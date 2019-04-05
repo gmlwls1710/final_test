@@ -8,5 +8,7 @@
 </head>
 <body>
 브랜치 새로 만들고 내용수정
+
+merge는 어떻게 하나요?
 </body>
 </html>
